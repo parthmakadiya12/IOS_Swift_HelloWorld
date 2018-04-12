@@ -14,6 +14,7 @@
 		B68B9803207FDBAD005EC2B0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B68B9801207FDBAD005EC2B0 /* LaunchScreen.storyboard */; };
 		B68B980E207FDBAE005EC2B0 /* HelloWorldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68B980D207FDBAE005EC2B0 /* HelloWorldTests.swift */; };
 		B68B9819207FDBAE005EC2B0 /* HelloWorldUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68B9818207FDBAE005EC2B0 /* HelloWorldUITests.swift */; };
+		B68B9827207FE1F1005EC2B0 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = B68B9826207FE1F1005EC2B0 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		B68B9814207FDBAE005EC2B0 /* HelloWorldUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloWorldUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B68B9818207FDBAE005EC2B0 /* HelloWorldUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloWorldUITests.swift; sourceTree = "<group>"; };
 		B68B981A207FDBAE005EC2B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B68B9826207FE1F1005EC2B0 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		B68B97EC207FDBAD005EC2B0 = {
 			isa = PBXGroup;
 			children = (
+				B68B9826207FE1F1005EC2B0 /* .gitignore */,
 				B68B97F7207FDBAD005EC2B0 /* HelloWorld */,
 				B68B980C207FDBAE005EC2B0 /* HelloWorldTests */,
 				B68B9817207FDBAE005EC2B0 /* HelloWorldUITests */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B68B9827207FE1F1005EC2B0 /* .gitignore in Resources */,
 				B68B9803207FDBAD005EC2B0 /* LaunchScreen.storyboard in Resources */,
 				B68B9800207FDBAD005EC2B0 /* Assets.xcassets in Resources */,
 				B68B97FE207FDBAD005EC2B0 /* Main.storyboard in Resources */,
